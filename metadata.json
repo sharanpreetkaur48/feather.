@@ -1,0 +1,6 @@
+{
+  "name": "National Weather Intelligence",
+  "description": "National Weather Big Data Analytics Platform - Smart India Hackathon 2026 AI prototype for real-time multi-source weather data collection and fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
