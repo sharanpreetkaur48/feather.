@@ -577,7 +577,7 @@ Generate real-time and historical analytics.
 
 ## 🗺️ National Weather Intelligence Dashboard
 
-![National Weather Intelligence Dashboard](./National%20weather%20intelligence%20Dashboard.png)
+![National Weather Intelligence Dashboard](./National%20weather%20intelligence%20Dashboard(1).png)
 
 ---
 
