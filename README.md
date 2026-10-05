@@ -575,9 +575,24 @@ Generate real-time and historical analytics.
 
 ---
 
+## TECH STACK
+
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | React + TypeScript |
+| **Backend / APIs** | Python FastAPI / Node.js |
+| **Streaming** | Kafka / event-driven ingestion |
+| **Big Data** | Spark / scalable batch processing |
+| **AI / ML** | NLP • CV • similarity & classification |
+| **Database** | PostgreSQL + PostGIS |
+| **Search / Storage** | OpenSearch/Elasticsearch + object storage |
+| **Maps** | GPS + Google Maps API (or open-source) |
+
+---
+
 ## 🗺️ National Weather Intelligence Dashboard
 
-![National Weather Intelligence Dashboard](./National%20weather%20intelligence%20Dashboard(1).png)
+![National Weather Intelligence Dashboard](./image.png)
 
 ---
 
